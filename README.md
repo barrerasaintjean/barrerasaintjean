@@ -45,12 +45,12 @@ Este proyecto nació para eliminar la incertidumbre sobre la temperatura en una 
 * **Tecnologías:** ESP32, Sensores DS18B20, Google Apps Script.
 * **Visualización:** Gráficos dinámicos que se actualizan automáticamente con cada lectura.
 
-![Datos de Temperatura](img/excel%20temperatura.png) 
+![Dashboard de Temperatura](https://raw.githubusercontent.com/barrerasaintjean/Proyecto-Monitoreo-Temperatura-GoogleSheets/main/img/excel%20temperatura.png)
 
 ### 🚗 [Análisis de Movilidad LATAM 2024](https://github.com/barrerasaintjean/analisis-movilidad-latam-2024)
 Proyecto Académico Profesional. Estudio de la relación entre el tráfico vehicular y el PIB per cápita en ciudades de Latinoamérica.
 * **Tecnologías:** Python, Pandas, Jupyter Notebook, Power BI.
-
+![Dashboard de Movilidad Urbana](https://raw.githubusercontent.com/barrerasaintjean/analisis-movilidad-latam-2024/main/img/General.png)
 ---
 
 ## 🧰 Herramientas y Tecnologías
