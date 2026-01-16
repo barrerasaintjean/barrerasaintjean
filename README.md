@@ -43,7 +43,6 @@ Actualmente, transformo esta experiencia operativa en inteligencia de datos a tr
 ### ❄️ [Monitoreo de Temperatura - IoT & Google Sheets](https://github.com/barrerasaintjean/Proyecto-Monitoreo-Temperatura-GoogleSheets)
 Este proyecto nació para eliminar la incertidumbre sobre la temperatura en una camara de frio . Implementé un sistema que captura datos reales para dejar de adivinar y empezar a analizar.
 * **Tecnologías:** ESP32, Sensores DS18B20, Google Apps Script.
-* **Visualización:** Gráficos dinámicos que se actualizan automáticamente con cada lectura.
 
 ![Dashboard de Temperatura](https://raw.githubusercontent.com/barrerasaintjean/Proyecto-Monitoreo-Temperatura-GoogleSheets/main/img/excel%20temperatura.png)
 
