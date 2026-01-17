@@ -35,8 +35,6 @@ Actualmente, transformo esta experiencia operativa en inteligencia de datos a tr
 
 "Mi objetivo no es solo analizar lo que pasó, sino dominar el ciclo completo del dato: desde su captura en el sensor y su transporte a la nube, hasta la generación de inteligencia predictiva en la operación."
 
-> **Nota del Maker:** Soy un apasionado de la **impresión 3D**. He tenido más prototipos fallidos que exitosos, pero cada fallo me ha permitido entender la importancia de la iteración rápida y el diseño orientado a la solución. Hoy, esos errores son mi base de conocimientos para no repetirlos.
-
 ---
 ## 🚀 Proyectos Destacados
 
