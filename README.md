@@ -50,7 +50,7 @@ Este proyecto nace de una necesidad estratégica: para fortalecerme como vendedo
 
 Este pipeline fue creado para negociar mejores precios basándose en datos reales y, al mismo tiempo, obtener bases de datos sólidas para practicar mis habilidades como analista.
 
-(https://raw.githubusercontent.com/barrerasaintjean/Pipeline-de-Inteligencia-de-Mercado---Sector-Machas/blob/main/img/n8n.png)
+![Flujo de Trabajo n8n](https://raw.githubusercontent.com/barrerasaintjean/Pipeline-de-Inteligencia-de-Mercado---Sector-Machas/main/img/n8n.png)
 
 ### 🚗 [Análisis de Movilidad LATAM 2024](https://github.com/barrerasaintjean/analisis-movilidad-latam-2024)
 Proyecto Académico Profesional. Estudio de la relación entre el tráfico vehicular y el PIB per cápita en ciudades de Latinoamérica.
