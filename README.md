@@ -44,6 +44,14 @@ Este proyecto nació para eliminar la incertidumbre sobre la temperatura en una 
 
 ![Dashboard de Temperatura](https://raw.githubusercontent.com/barrerasaintjean/Proyecto-Monitoreo-Temperatura-GoogleSheets/main/img/excel%20temperatura.png)
 
+### 🌊 [Pipeline de Inteligencia de Mercado - Sector Pescaderías](https://github.com/barrerasaintjean/Pipeline-de-Inteligencia-de-Mercado---Sector-Machas)
+
+Este proyecto nace de una necesidad estratégica: para fortalecerme como vendedor, necesitaba saber exactamente en qué lugar nos posicionamos ante la competencia. Al enfrentarme al reto de revisar página por página, decidí que la mejor forma de escalar era la automatización. 
+
+Este pipeline fue creado para negociar mejores precios basándose en datos reales y, al mismo tiempo, obtener bases de datos sólidas para practicar mis habilidades como analista.
+
+(https://raw.githubusercontent.com/barrerasaintjean/Pipeline-de-Inteligencia-de-Mercado---Sector-Machas/blob/main/img/n8n.png)
+
 ### 🚗 [Análisis de Movilidad LATAM 2024](https://github.com/barrerasaintjean/analisis-movilidad-latam-2024)
 Proyecto Académico Profesional. Estudio de la relación entre el tráfico vehicular y el PIB per cápita en ciudades de Latinoamérica.
 * **Tecnologías:** Python, Pandas, Jupyter Notebook, Power BI.
