@@ -28,10 +28,10 @@ Actualmente, transformo esta experiencia operativa en inteligencia de datos a tr
 
 | Etapa | Enfoque | Tecnologías Clave |
 | :--- | :--- | :--- |
-| ** Actual: Data Analyst** | Fundamentos y limpieza de datos | Python, SQL Avanzado, Power BI, Estadísticas |
-| ** Industrial Data Science** | Modelos Predictivos y Time Series | Scikit-Learn, Mantenimiento Predictivo, Detección de Anomalías |
-| ** Cloud & Edge Computing** | Tuberías de datos y conectividad | MQTT, AWS/Azure IoT, Docker, Node-RED |
-| ** Smart Manufacturing** | Integración total y escalabilidad | OPC-UA, Lógica PLC/SCADA, Optimización de Sistemas |
+|  Actual: Data Analyst | Fundamentos y limpieza de datos | Python, SQL Avanzado, Power BI, Estadísticas |
+|  Industrial Data Science | Modelos Predictivos y Time Series | Scikit-Learn, Mantenimiento Predictivo, Detección de Anomalías |
+|  Cloud & Edge Computing | Tuberías de datos y conectividad | MQTT, AWS/Azure IoT, Docker, Node-RED |
+|  Smart Manufacturing| Integración total y escalabilidad | OPC-UA, Lógica PLC/SCADA, Optimización de Sistemas |
 
 "Mi objetivo no es solo analizar lo que pasó, sino dominar el ciclo completo del dato: desde su captura en el sensor y su transporte a la nube, hasta la generación de inteligencia predictiva en la operación."
 
