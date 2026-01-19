@@ -69,7 +69,3 @@ Proyecto Académico Profesional. Estudio de la relación entre el tráfico vehic
 ![Stats de Bastián](https://github-readme-stats.vercel.app/api?username=barrerasaintjean&show_icons=true&theme=radical)
 
 ---
-
-##  ¿Cómo contactarme?
-- [LinkedIn](https://www.linkedin.com/in/bastian-barrera-analistadedatos/)
-- [Email](mailto:barrerasaintjean@gmail.com)
