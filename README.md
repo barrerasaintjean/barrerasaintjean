@@ -38,11 +38,12 @@ Actualmente, transformo esta experiencia operativa en inteligencia de datos a tr
 ---
 ##  Proyectos Destacados
 
-###  [Monitoreo de Temperatura - IoT & Google Sheets](https://github.com/barrerasaintjean/Proyecto-Monitoreo-Temperatura-GoogleSheets)
-Este proyecto nació para eliminar la incertidumbre sobre la temperatura en una camara de frio . Implementé un sistema que captura datos reales para dejar de adivinar y empezar a analizar.
-* **Tecnologías:** ESP32, Sensores DS18B20, Google Apps Script.
+###  [Proyecto-Monitoreo-Temperatura-v2-IoT-](https://github.com/barrerasaintjean/Proyecto-Monitoreo-Temperatura-v2-IoT-/tree/main/img%20grafana)
+Este proyecto creció: de 'adivinar' la temperatura pasamos a una gestión inteligente de datos. Con la V2, el sistema ahora corre en una base local propia, asegurando que la información sea siempre accesible para prevenir pérdidas en la cadena de frío.
 
-![Dashboard de Temperatura](https://raw.githubusercontent.com/barrerasaintjean/Proyecto-Monitoreo-Temperatura-GoogleSheets/main/img/excel%20temperatura.png)
+Evolución: De Google Sheets a un servidor dedicado(Raspberry Pi + Grafana/n8n/postgrade).
+
+![Dashboard de Temperatura](https://raw.githubusercontent.com/barrerasaintjean/Proyecto-Monitoreo-Temperatura-v2-IoT-/main/img%20grafana/grafico%20grafana.png)
 
 ###  [Pipeline de Inteligencia de Mercado - Sector Pescaderías](https://github.com/barrerasaintjean/Pipeline-de-Inteligencia-de-Mercado---Sector-Machas)
 
