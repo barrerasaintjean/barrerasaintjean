@@ -38,7 +38,7 @@ Actualmente, transformo esta experiencia operativa en inteligencia de datos a tr
 ---
 ##  Proyectos Destacados
 
-###  [Proyecto-Monitoreo-Temperatura-v2-IoT-](https://github.com/barrerasaintjean/Proyecto-Monitoreo-Temperatura-v2-IoT-/tree/main/img%20grafana)
+###  [Proyecto-Monitoreo-Temperatura-v2-IoT-](https://github.com/barrerasaintjean/Proyecto-Monitoreo-Temperatura-v2-IoT-)
 Este proyecto creció: de 'adivinar' la temperatura pasamos a una gestión inteligente de datos. Con la V2, el sistema ahora corre en una base local propia, asegurando que la información sea siempre accesible para prevenir pérdidas en la cadena de frío.
 
 Evolución: De Google Sheets a un servidor dedicado(Raspberry Pi + Grafana/n8n/postgrade).
